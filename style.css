@@ -112,6 +112,7 @@ section {
 .content hr {
     width: 100%;
     opacity: 1;
+    color: #fff;
     border: 1px solid #fff;
 }
 
@@ -862,6 +863,7 @@ section {
 
     .home .content p {
         font-size: 8px;
+        margin-bottom: 14px;
     }
 
     .search {

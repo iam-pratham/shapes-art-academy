@@ -826,6 +826,16 @@ section {
     align-items: center;
 }
 
+
+
+
+
+
+
+
+
+
+
 @media (max-width : 820px) {
     .navigation ul li {
         display: none;

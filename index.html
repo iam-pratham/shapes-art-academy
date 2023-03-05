@@ -323,7 +323,14 @@
   </div>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
-    AOS.init();
+    AOS.init({offset: 60, once: false,  disable: 'phone', duration: 300,
+      initClassName: 'aos-init',
+      animatedClassName: 'aos-animate',
+      useClassNames: false,
+      disableMutationObserver: false,
+      debounceDelay: 50,
+      throttleDelay: 99,
+      }); 
   </script>
 
 </body>

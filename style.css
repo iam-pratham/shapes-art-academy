@@ -744,26 +744,26 @@ section {
     width: 100px;
     height: 500px;
     margin: 10px;
-    background: url(images/color5.jpg);
+    background: url(images/color.jpeg);
     background-size: cover;
     background-position: center;
     transition: width 0.5s;
 }
 
 .imgbox:nth-child(2) {
-    background: url(images/color3.jpg);
+    background: url(images/color1.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 .imgbox:nth-child(3) {
-    background: url(images/color.jpg);
+    background: url(images/color2.jpeg);
     background-size: cover;
     background-position: center;
 }
 
 .imgbox:nth-child(4) {
-    background: url(images/color4.jpg);
+    background: url(images/color3.jpeg);
     background-size: cover;
     background-position: center;
 }
